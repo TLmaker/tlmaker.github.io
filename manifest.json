@@ -1,0 +1,16 @@
+{
+	"name": "TLmaker for Mastodon on Web β",
+	"short_name": "TLmaker",
+	"description": "Client Web App for Mastodon",
+	"scope": "https://tlmaker.github.io/",
+	"start_url": "index.html",
+	"display": "standalone",
+	"theme_color": "#282c37",
+	"background_color": "#191b22",
+	"icons": [{
+		"src": "img/apple-touch-icon.png",
+		"sizes": "192x192",
+		"type": "image/png"
+		}
+	],
+} 
